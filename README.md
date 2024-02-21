@@ -8,7 +8,7 @@
 ### BACK-END
 
 ![Python](https://img.shields.io/badge/-python-002B4D?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-JAVA-002B4D?style=for-the-badge&logo=java)
+![JAVA](https://img.shields.io/badge/-JAVA-002B4D?style=for-the-badge&logo=java)
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
