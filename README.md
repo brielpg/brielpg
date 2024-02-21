@@ -3,6 +3,7 @@
 ## &nbsp;Sobre mim
 
 - 🎓 Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
+- 📚 Estudando Data Science & CyberSecurity
 
 ### BACK-END
 
