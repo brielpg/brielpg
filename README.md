@@ -45,7 +45,7 @@
     srcset="https://github.com/brielpg/brielpg/blob/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt=""
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
