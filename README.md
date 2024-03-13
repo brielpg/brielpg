@@ -3,7 +3,8 @@
 ## &nbsp;Sobre mim
 
 - 🎓 Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
-- 📚 Estudando Data Science & CyberSecurity
+- 🖥️ Back-End Java & Python
+- 🔑 CyberSecurity
 
 ### BACK-END
 
@@ -12,7 +13,6 @@
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
 </div>
