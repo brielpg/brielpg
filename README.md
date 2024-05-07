@@ -33,6 +33,6 @@
 </div>
 
 <div>
-<img align="left" height="350" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brielpg&theme=gotham&locale=pt-br&border_radius=15">
-<img align="right" height="450" width="550" src="https://github-readme-stats.vercel.app/api?username=brielpg&custom_title=Git+Stats+brielpg&theme=gotham&locale=pt-br&show_icons=true&border_radius=15">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brielpg&theme=gotham&locale=pt-br&border_radius=15">
+<img src="https://github-readme-stats.vercel.app/api?username=brielpg&custom_title=Git+Stats+brielpg&theme=gotham&locale=pt-br&show_icons=true&border_radius=15">
 </div>
