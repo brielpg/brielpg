@@ -1,6 +1,6 @@
 ## 👋 Olá, meu nome é Gabriel!
 
-👨‍💻 Sou estudante de programaçao, apaixonado em aprender, estou sempre estudando e me aprofundando cada vez mais em desenvolvimento back-end e mobile. Amante de games, e também tenho conhecimento em front-end e desenvolvimento de games.
+👨‍💻 Sou um estudante de programação com foco em back-end e mobile, apaixonado em aprender. Estou sempre estudando e buscando me aprofundar cada vez mais em novas tecnologias e novos desafios. Além disso, tenho interesse em desenvolvimento de games e possuo conhecimento em front-end. Nos meus repositórios você pode encontrar alguns dos projetos em que eu fiz parte; Sinta-se convidado(a) para conhecê-los.
 
 💻 Já trabalhei em projetos como o <a href="https://blueworld-gs.vercel.app/">Blue World</a>.
 
