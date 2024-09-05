@@ -1,52 +1,55 @@
-<div>
-  
-# SOBRE MIM
+## 👋 Olá, meu nome é Gabriel!
 
-- 🎓 Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
-- 🎓 Aluno da <a href="https://www.alura.com.br/">Alura</a>.
-  
-<br>
+👨‍💻 Sou estudante de programaçao, apaixonado em aprender, estou sempre estudando e me aprofundando cada vez mais em desenvolvimento back-end e mobile. Amante de games, e também tenho conhecimento em front-end e desenvolvimento de games.
 
-## BACK-END
+💻 Já trabalhei em projetos como o <a href="https://blueworld-gs.vercel.app/">Blue World</a>.
 
-<div style="display: inline_block"><br>
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-</div>
+🎓 Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
+
+📚 Estou sempre estudando e me aprofundando em diversos conteúdos na plataforma <a href="https://www.alura.com.br/">Alura</a>.
 
 <br>
 
-## FRONT-END
+---
 
-<div style="display: inline_block"><br>
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />        
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />          
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />
-</div>
+## 🚀 Minhas Skills
 
-## MOBILE
+### BACK-END
 
-<div style="display: inline_block"><br>
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-</div>
+  <div style="display: inline_block"><br>
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  </div>
+  
+  ### FRONT-END
 
-## DATABASE
+  <div style="display: inline_block"><br>
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />        
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />          
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg">
+  </div>
+  
+  ### MOBILE
 
-<div style="display: inline_block"><br>
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</div>
+  <div style="display: inline_block"><br>
+    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+  </div>
 
-<br><br><br>
+---
 
-</div>
+<br>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brielpg&theme=gotham&locale=pt-br&border_radius=15">
-<img src="https://github-readme-stats.vercel.app/api?username=brielpg&custom_title=Git+Stats+brielpg&theme=gotham&locale=pt-br&show_icons=true&border_radius=15">
+## ⭐ GitHub Stats
+
+<div style="display: flex">
+  <img align="left" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brielpg&theme=tokyonight&show_icons=true&locale=pt-br&hide_border=true&layout=compact">
+  <img align="right" height="190em" src="https://github-readme-stats.vercel.app/api?username=brielpg&custom_title=GitStats+brielpg&theme=tokyonight&locale=pt-br&show_icons=true&hide_border=true">
 </div>
