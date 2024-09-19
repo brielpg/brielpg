@@ -4,9 +4,14 @@
 
 💻 Já trabalhei em projetos como o <a href="https://blueworld-gs.vercel.app/">Blue World</a>.
 
-🎓 Cursando **ANALISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
+🎓 Cursando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
 
 📚 Estou sempre estudando e me aprofundando em diversos conteúdos na plataforma <a href="https://www.alura.com.br/">Alura</a>.
+
+📫 Email: gabrielgaliza.dev@gmail.com
+
+<img align="center" alt="linkedin" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/> Linkedin: https://www.linkedin.com/in/gabriel-pescarolli-galiza
+
 
 <br>
 
