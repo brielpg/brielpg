@@ -6,7 +6,7 @@
 
 🎓 Cursando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
 
-📚 Estou sempre estudando e me aprofundando em diversos conteúdos na plataforma <a href="https://www.alura.com.br/">Alura</a>.
+📚 Estou sempre estudando e me aprofundando em diversos conteúdos na plataforma <a href="https://www.alura.com.br/user/gabriel-pescarolli">Alura</a>.
 
 📫 Email: gabrielgaliza.dev@gmail.com
 
