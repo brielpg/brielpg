@@ -4,7 +4,7 @@
 
 💻 Já trabalhei em projetos como o <a href="https://blueworld-gs.vercel.app/">Blue World</a>.
 
-🎓 Cursando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
+🎓 Graduado em **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
 
 📚 Estou sempre estudando e me aprofundando em diversos conteúdos na plataforma <a href="https://cursos.alura.com.br/user/gabriel-pescarolli">Alura</a>.
 
