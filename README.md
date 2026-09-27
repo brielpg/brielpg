@@ -1,53 +1,13 @@
-## 👋 Olá, meu nome é Gabriel!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pescarolli-galiza)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gabrielgaliza.dev@gmail.com)
 
-👨‍💻 Sou um desenvolvedor back-end, apaixonado em aprender. Estou sempre estudando, buscando aprender novas tecnologias e participando de desafios. Nos meus repositórios você pode encontrar alguns dos projetos em que eu fiz parte; Sinta-se convidado(a) para conhecê-los.
+- 👨‍🔧 I'm a backend developer working at Synplai
+- 🎓 Systems Analysis and Development graduate from FIAP
+- 📚 Pursuing an MBA in Software Engineering at Faculdade Impacta
 
-💻 Já trabalhei em projetos como o <a href="https://blueworld-gs.vercel.app/">Blue World</a>.
+# 🛠️ Technologies
 
-🎓 Graduado em **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.fiap.com.br/">FIAP</a>.
-
-📚 Estou sempre estudando e me aprofundando em diversos conteúdos na plataforma <a href="https://cursos.alura.com.br/user/gabriel-pescarolli">Alura</a>.
-
-📫 Email: gabrielgaliza.dev@gmail.com
-
-<img align="center" alt="linkedin" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/> Linkedin: https://www.linkedin.com/in/gabriel-pescarolli-galiza
-
-
-<br>
-
----
-
-## 🚀 Minhas Skills
-
-### BACK-END
-
-  <div style="display: inline_block"><br>
-    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  </div>
-  
-  ### FRONT-END & MOBILE
-
-  <div style="display: inline_block"><br>
-    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />        
-    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />          
-    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  </div>
-
----
-
-<br>
-
-## ⭐ GitHub Stats
-
-<div style="display: flex">
-  <img align="left" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brielpg&theme=tokyonight&show_icons=true&locale=pt-br&hide_border=true&layout=compact">
-  <img align="right" height="190em" src="https://github-readme-stats.vercel.app/api?username=brielpg&custom_title=GitStats+brielpg&theme=tokyonight&locale=pt-br&show_icons=true&hide_border=true">
-</div>
+- **Languages:** Java, Python, SQL
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **Tools:** Docker, RabbitMQ, GitHub Actions
+- **Other:** REST APIs, Automated Testing, DevOps, Webhook
